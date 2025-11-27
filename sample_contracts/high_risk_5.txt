@@ -1,0 +1,28 @@
+SECTION 1: CONFIDENTIALITY
+Both Parties agree to maintain the confidentiality of all proprietary and sensitive
+information. The confidentiality obligation shall remain in effect for a period of
+5 years following termination of the Agreement. Disclosure to third parties is
+allowed only with prior written consent from the Client or as required by law.
+
+SECTION 2: LIMITATION OF LIABILITY
+The Company’s liability shall not exceed 1.0x the total service fees paid by the
+Client in the 12 months preceding the claim. The Company shall remain responsible
+for damages caused by its negligence or willful misconduct. Indirect or punitive
+damages are excluded to the extent permitted by applicable law.
+
+SECTION 3: DATA PROTECTION
+The Company shall implement reasonable technical and organizational measures to
+safeguard Client Data, including encryption, access controls, and periodic audits.
+Client Data shall not be shared, sold, or transferred to third parties without
+explicit written consent, except where legally required.
+
+SECTION 4: TERMINATION
+Either Party may terminate this Agreement with 30 days written notice. Upon
+termination, the Company shall provide the Client with a complete export of their
+data in a standard format. Refunds or prorated credits will be issued for any
+unused prepaid service period.
+
+SECTION 5: DISPUTE RESOLUTION
+Any dispute arising out of or relating to this Agreement shall be resolved through
+independent arbitration under a recognized arbitration authority. Either Party may
+seek judicial remedies when arbitration is unavailable or insufficient.

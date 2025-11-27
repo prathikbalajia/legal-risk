@@ -1,0 +1,62 @@
+[
+  {
+    "clause_name": "Confidentiality Term",
+    "policy_rule": "The confidentiality obligation must last for at least 3 years.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Liability Cap",
+    "policy_rule": "The liability cap must not exceed 1.5x the total fees paid.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Data Sale Prohibition",
+    "policy_rule": "Provider must not sell or commercialize Client Data without explicit consent.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Termination Notice",
+    "policy_rule": "Termination must require at least 30 days notice or payment in lieu.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Indemnity Scope",
+    "policy_rule": "Indemnity should not cover the Provider's own negligence or willful misconduct.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Service Availability",
+    "policy_rule": "Provider must provide an uptime guarantee and not suspend services arbitrarily.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Security Responsibility",
+    "policy_rule": "Provider must take reasonable responsibility for protecting Client Data stored on its servers.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Refund Policy",
+    "policy_rule": "Provider must provide refunds or remedies for extended outages or breaches.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Governing Law Validity",
+    "policy_rule": "Contract must be governed by a recognized legal jurisdiction and not by internal policies only.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Dispute Resolution Fairness",
+    "policy_rule": "Dispute resolution must allow independent arbitration or judicial review.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  }
+]

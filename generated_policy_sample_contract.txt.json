@@ -1,0 +1,120 @@
+{
+  "policy_id": "POLICY-20251127050514-e0e337",
+  "source_document": "sample_contract.txt",
+  "generated_at": "2025-11-27T05:05:14.121829Z",
+  "rules": [
+    {
+      "rule_id": "705b7ac6",
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "explanation": "No explicit confidentiality duration found; policy requires >=3 years.",
+      "severity": "MEDIUM",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Confidentiality obligations shall continue for a period of three (3) years after termination.",
+      "citation": "SECTION (not found)",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "0705b7a0",
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x the total fees paid.",
+      "explanation": "No explicit liability cap found; policy recommends adding a numeric cap.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "Liability shall be limited to 1.5x the total fees paid.",
+      "citation": "SECTION (not found)",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "871fe82c",
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell or commercialize Client Data without explicit consent.",
+      "explanation": "Text allows selling or commercial use of client data without consent.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "Provider shall not sell, license, or commercialize Client Data without the Client's explicit consent.",
+      "citation": "SECTION (detected data usage)",
+      "confidence": 0.9
+    },
+    {
+      "rule_id": "8e874e00",
+      "clause_name": "Termination Notice",
+      "policy_rule": "Termination must require at least 30 days notice or payment in lieu.",
+      "explanation": "Termination clause lacks a 30-day notice period.",
+      "severity": "MEDIUM",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Either Party may terminate this Agreement with at least thirty (30) days' written notice or payment in lieu.",
+      "citation": "SECTION (detected termination)",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "e99a3451",
+      "clause_name": "Service Availability",
+      "policy_rule": "Provider must provide an uptime guarantee and not suspend services arbitrarily.",
+      "explanation": "No uptime or SLA found; service suspension risk present.",
+      "severity": "MEDIUM",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Provider shall target an uptime of at least 99.5% and provide remedies for extended outages.",
+      "citation": "SECTION (not found uptime)",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "89b88091",
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must take reasonable responsibility for protecting Client Data stored on its servers.",
+      "explanation": "No explicit security obligations found; this is high risk.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "Provider shall implement reasonable technical and organizational measures (including encryption and access control) to protect Client Data.",
+      "citation": "SECTION (not found security)",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "ad9e0aaf",
+      "clause_name": "Refund Policy",
+      "policy_rule": "Provider must provide refunds or remedies for extended outages or breaches.",
+      "explanation": "Refund/remedy language present; confirm terms.",
+      "severity": "LOW",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Provider shall provide refunds or credits for extended outages or material breaches.",
+      "citation": "SECTION (detected refund)",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "82e31d65",
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Contract must be governed by a recognized legal jurisdiction and not by internal policies only.",
+      "explanation": "No recognized governing law detected or governance only by internal policies.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "This Agreement shall be governed by the laws of a recognized jurisdiction (e.g., State of New York).",
+      "citation": "SECTION (not found governing law)",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "562f699b",
+      "clause_name": "Dispute Resolution Fairness",
+      "policy_rule": "Dispute resolution must allow independent arbitration or judicial review.",
+      "explanation": "Dispute resolution terms found; verify independence and fairness.",
+      "severity": "LOW",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "All disputes shall be resolved through independent arbitration or judicial review allowing parties fair process.",
+      "citation": "SECTION (detected dispute)",
+      "confidence": 0.8
+    }
+  ],
+  "summary": "Auto-generated policy suggestions (fallback). Please review before approving.",
+  "metadata": {
+    "generator": "fallback",
+    "version": "0.1"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "policy_id": "POLICY-20251127100246",
+  "source_document": "high_risk_5.txt",
+  "generated_at": "2025-11-27T10:02:46.175850Z",
+  "rules": [
+    {
+      "rule_id": "66812ea5",
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "explanation": "No confidentiality duration found.",
+      "severity": "MEDIUM",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Confidentiality shall last 3 years.",
+      "citation": "SECTION",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "8c8627d4",
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "explanation": "No explicit numeric cap found.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "Liability limited to 1.5x fees.",
+      "citation": "SECTION",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "203651e6",
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "explanation": "No data sale found.",
+      "severity": "LOW",
+      "importance": 0.8,
+      "examples": [],
+      "recommended_fix": "Provider shall not sell client data.",
+      "citation": "SECTION",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "fbccf3f4",
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "explanation": "Some security text found.",
+      "severity": "LOW",
+      "importance": 1.0,
+      "examples": [],
+      "recommended_fix": "Provider must secure data.",
+      "citation": "SECTION",
+      "confidence": 0.8
+    },
+    {
+      "rule_id": "3f77e8a2",
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "explanation": "No governing law found.",
+      "severity": "HIGH",
+      "importance": 1.5,
+      "examples": [],
+      "recommended_fix": "Agreement must specify governing law.",
+      "citation": "SECTION",
+      "confidence": 0.85
+    }
+  ],
+  "summary": "Generated using deterministic fallback (Gemini unavailable).",
+  "metadata": {
+    "generator": "fallback"
+  }
+}
