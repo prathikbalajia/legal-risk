@@ -464,6 +464,116 @@
     },
     {
       "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior written consent from the Client or as required by law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Confidentiality duration 5 year(s) meets policy.",
+      "section_id": 0,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
       "policy_rule": "The confidentiality obligation must last for at least 3 years.",
       "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
       "is_violation": true,
@@ -681,6 +791,116 @@
       "reasoning": "No data sale detected.",
       "section_id": 1,
       "importance": 1.5
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 1,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 1,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 1,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Liability capped at 1.0x which meets policy.",
+      "section_id": 1,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 1,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 1,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 1,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 1,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Liability capped at 1.0x which meets policy.",
+      "section_id": 1,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded to the extent permitted by applicable law.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 1,
+      "importance": 0.8
     },
     {
       "clause_name": "Security Responsibility",
@@ -1143,6 +1363,116 @@
       "reasoning": "No data sale detected.",
       "section_id": 2,
       "importance": 1.5
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Security obligations present.",
+      "section_id": 2,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 2,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 2,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 2,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 2,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Security obligations present.",
+      "section_id": 2,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 2,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 2,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 2,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, except where legally required.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 2,
+      "importance": 0.8
     },
     {
       "clause_name": "Security Responsibility",
@@ -1850,6 +2180,116 @@
     },
     {
       "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 3,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 3,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 3,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 3,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 3,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 3,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 3,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 3,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 3,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 3,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
       "policy_rule": "The confidentiality obligation must last for at least 3 years.",
       "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
       "is_violation": true,
@@ -2309,6 +2749,116 @@
       "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
       "section_id": 4,
       "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 4,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 4,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 4,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 4,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 4,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Confidentiality Term",
+      "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "MEDIUM",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit confidentiality duration found.",
+      "section_id": 4,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Liability Cap",
+      "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No explicit safe liability cap found.",
+      "section_id": 4,
+      "importance": 1.5
+    },
+    {
+      "clause_name": "Data Sale Prohibition",
+      "policy_rule": "Provider must not sell Client Data.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": false,
+      "risk_level": "LOW",
+      "citation": "SECTION (in-file)",
+      "reasoning": "No data sale detected.",
+      "section_id": 4,
+      "importance": 0.8
+    },
+    {
+      "clause_name": "Security Responsibility",
+      "policy_rule": "Provider must protect client data.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Provider disclaims security responsibilities.",
+      "section_id": 4,
+      "importance": 1.0
+    },
+    {
+      "clause_name": "Governing Law Validity",
+      "policy_rule": "Agreement must specify valid jurisdiction.",
+      "extracted_text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
+      "is_violation": true,
+      "risk_level": "HIGH",
+      "citation": "SECTION (in-file)",
+      "reasoning": "Governing law not a recognized jurisdiction or only internal policies.",
+      "section_id": 4,
+      "importance": 1.5
     }
   ],
   "section_scores": [
@@ -2317,35 +2867,35 @@
       "text": "SECTION 1: CONFIDENTIALITY\nBoth Parties agree to maintain the confidentiality of all proprietary and sensitive\ninformation. The confidentiality obligation shall remain in effect for a period of\n5 years following termination of the Agreement. Disclosure to third parties is\nallowed only with prior wri",
       "violations": [],
       "section_violation_weight": 0.0,
-      "section_importance_total": 49.8
+      "section_importance_total": 61.39999999999999
     },
     {
       "id": 1,
       "text": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded ",
       "violations": [],
-      "section_violation_weight": 24.5,
-      "section_importance_total": 49.8
+      "section_violation_weight": 30.5,
+      "section_importance_total": 61.39999999999999
     },
     {
       "id": 2,
       "text": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, excep",
       "violations": [],
-      "section_violation_weight": 28.5,
-      "section_importance_total": 49.8
+      "section_violation_weight": 35.5,
+      "section_importance_total": 61.39999999999999
     },
     {
       "id": 3,
       "text": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
       "violations": [],
-      "section_violation_weight": 35.0,
-      "section_importance_total": 49.8
+      "section_violation_weight": 44.0,
+      "section_importance_total": 61.39999999999999
     },
     {
       "id": 4,
       "text": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
       "violations": [],
-      "section_violation_weight": 35.0,
-      "section_importance_total": 49.8
+      "section_violation_weight": 44.0,
+      "section_importance_total": 61.39999999999999
     }
   ],
   "document_risk_percentage": 100.0,
@@ -2353,40 +2903,40 @@
     {
       "id": 3,
       "snippet": "SECTION 4: TERMINATION\nEither Party may terminate this Agreement with 30 days written notice. Upon\ntermination, the Company shall provide the Client with a complete export of their\ndata in a standard format. Refunds or prorated credits will be issued for any\nunused prepaid service period.",
-      "score": 35.0
+      "score": 44.0
     },
     {
       "id": 4,
       "snippet": "SECTION 5: DISPUTE RESOLUTION\nAny dispute arising out of or relating to this Agreement shall be resolved through\nindependent arbitration under a recognized arbitration authority. Either Party may\nseek judicial remedies when arbitration is unavailable or insufficient.",
-      "score": 35.0
+      "score": 44.0
     },
     {
       "id": 2,
       "snippet": "SECTION 3: DATA PROTECTION\nThe Company shall implement reasonable technical and organizational measures to\nsafeguard Client Data, including encryption, access controls, and periodic audits.\nClient Data shall not be shared, sold, or transferred to third parties without\nexplicit written consent, excep",
-      "score": 28.5
+      "score": 35.5
     },
     {
       "id": 1,
       "snippet": "SECTION 2: LIMITATION OF LIABILITY\nThe Company\u2019s liability shall not exceed 1.0x the total service fees paid by the\nClient in the 12 months preceding the claim. The Company shall remain responsible\nfor damages caused by its negligence or willful misconduct. Indirect or punitive\ndamages are excluded ",
-      "score": 24.5
+      "score": 30.5
     }
   ],
   "top_clauses": [
     {
       "clause_name": "Governing Law Validity",
-      "score": 42.0
+      "score": 54.0
     },
     {
       "clause_name": "Liability Cap",
-      "score": 34.5
+      "score": 43.5
     },
     {
       "clause_name": "Security Responsibility",
-      "score": 22.5
+      "score": 28.5
     },
     {
       "clause_name": "Confidentiality Term",
-      "score": 16.0
+      "score": 20.0
     },
     {
       "clause_name": "Dispute Resolution Fairness",

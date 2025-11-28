@@ -1,10 +1,10 @@
 {
-  "policy_id": "POLICY-20251127100246",
+  "policy_id": "POLICY-20251128052920",
   "source_document": "high_risk_5.txt",
-  "generated_at": "2025-11-27T10:02:46.175850Z",
+  "generated_at": "2025-11-28T05:29:20.272139Z",
   "rules": [
     {
-      "rule_id": "66812ea5",
+      "rule_id": "e82ffe05",
       "clause_name": "Confidentiality Term",
       "policy_rule": "Confidentiality obligations must last for at least 3 years.",
       "explanation": "No confidentiality duration found.",
@@ -16,7 +16,7 @@
       "confidence": 0.75
     },
     {
-      "rule_id": "8c8627d4",
+      "rule_id": "a5c2b4a5",
       "clause_name": "Liability Cap",
       "policy_rule": "Liability cap must not exceed 1.5x total fees.",
       "explanation": "No explicit numeric cap found.",
@@ -28,7 +28,7 @@
       "confidence": 0.8
     },
     {
-      "rule_id": "203651e6",
+      "rule_id": "f30426ef",
       "clause_name": "Data Sale Prohibition",
       "policy_rule": "Provider must not sell Client Data.",
       "explanation": "No data sale found.",
@@ -40,7 +40,7 @@
       "confidence": 0.7
     },
     {
-      "rule_id": "fbccf3f4",
+      "rule_id": "6886a894",
       "clause_name": "Security Responsibility",
       "policy_rule": "Provider must protect client data.",
       "explanation": "Some security text found.",
@@ -52,7 +52,7 @@
       "confidence": 0.8
     },
     {
-      "rule_id": "3f77e8a2",
+      "rule_id": "8b54f1f6",
       "clause_name": "Governing Law Validity",
       "policy_rule": "Agreement must specify valid jurisdiction.",
       "explanation": "No governing law found.",

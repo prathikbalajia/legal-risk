@@ -250,5 +250,65 @@
     "policy_rule": "Agreement must specify valid jurisdiction.",
     "risk_level_if_violated": "HIGH",
     "importance": 1.5
+  },
+  {
+    "clause_name": "Confidentiality Term",
+    "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Liability Cap",
+    "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Data Sale Prohibition",
+    "policy_rule": "Provider must not sell Client Data.",
+    "risk_level_if_violated": "LOW",
+    "importance": 0.8
+  },
+  {
+    "clause_name": "Security Responsibility",
+    "policy_rule": "Provider must protect client data.",
+    "risk_level_if_violated": "LOW",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Governing Law Validity",
+    "policy_rule": "Agreement must specify valid jurisdiction.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Confidentiality Term",
+    "policy_rule": "Confidentiality obligations must last for at least 3 years.",
+    "risk_level_if_violated": "MEDIUM",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Liability Cap",
+    "policy_rule": "Liability cap must not exceed 1.5x total fees.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
+  },
+  {
+    "clause_name": "Data Sale Prohibition",
+    "policy_rule": "Provider must not sell Client Data.",
+    "risk_level_if_violated": "LOW",
+    "importance": 0.8
+  },
+  {
+    "clause_name": "Security Responsibility",
+    "policy_rule": "Provider must protect client data.",
+    "risk_level_if_violated": "LOW",
+    "importance": 1.0
+  },
+  {
+    "clause_name": "Governing Law Validity",
+    "policy_rule": "Agreement must specify valid jurisdiction.",
+    "risk_level_if_violated": "HIGH",
+    "importance": 1.5
   }
 ]
